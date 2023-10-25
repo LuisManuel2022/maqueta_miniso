@@ -1,0 +1,13 @@
+.container_main{    
+    height: 50px;    
+    background-color: rgb(255, 255, 255);
+    border-top: 0.08333rem solid rgb(242, 242, 242);
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 5px;
+    width: 100vw;
+}
+.container_nav{
+    width: 1097px;
+    height: 50px;
+    margin-left: 148px;
+    display: flex;
+}
